@@ -1,4 +1,4 @@
-# angular-eventApp: An application to show events using Angular1.5
+# angular-eventApp: An application to show events using Angular 1.5
 
 ## Notes:
 1. Application uses Angular 1.5
@@ -60,11 +60,11 @@ To run the application: npm start
 To run the unit test: npm test
 
 Following are the scripts:
-  {
+"scripts": {
+    
     "postinstall": "bower install",
     "prestart": "npm install",
     "start": "http-server ./app -a localhost -p 8000 -c-1",
-
     "pretest": "npm install",
     "test": "karma start karma.conf.js",
     "test-single-run": "karma start karma.conf.js --single-run"
