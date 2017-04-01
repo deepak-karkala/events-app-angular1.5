@@ -1,0 +1,49 @@
+<div class="container-fluid">
+	<div class="row">
+		<center><h3>AngularJS Events App</h3></center>
+		<div class="col-md-2">
+			<p>
+				Filter by Canton:
+				<select ng-options="event.canton for event in $ctrl.events | uniqueCantons:'canton'"
+					ng-model="$ctrl.cantonSelected">
+				</select>
+			</p>
+			<p>
+				Filter by Month:
+				<!-- [TODO: Option values should be based on the selected canton]-->
+				<select ng-options="(event.date | date:'MMMM') for event in $ctrl.events | uniqueMonths:'date'"
+					ng-model="$ctrl.monthSelected">
+				</select>
+			</p>
+			<p>
+				Filter by Day:
+				<!-- [TODO: Option values should be based on the selected canton and month]-->
+				<select ng-options="(event.date | date:'d') for event in $ctrl.events | uniqueDays:'date'"
+					ng-model="$ctrl.daySelected">
+				</select>
+			</p>
+			<button ng-click="$ctrl.resetFilters()">Reset Filters</button>
+		</div>
+
+		<div class="col-md-10">
+			<div class="panel panel-default">
+		        <div class="list-group">
+		          <!-- [TODO: Filter by day]-->
+		          <a ng-repeat="event in $ctrl.events | filterEventsByCanton:$ctrl.cantonSelected | filterEventsByMonth:$ctrl.monthSelected | orderBy:$ctrl.orderBy" class="list-group-item">
+		          	<div class="row">
+		          		<div class="col-md-4">
+			          		<img src="{{event.thumbnail}}" alt="{{event.name}}"/>
+			          	</div>
+		          		<div class="col-md-8">
+				            <h4>{{ event.name }}</h4>
+							<h5>On {{ event.date | date }} in the canton: {{ event.canton }}</h5>
+							<p>{{ event.description }}</p>
+						</div>
+					</div>
+		          </a>
+		        </div>
+		    </div>
+		</div>
+
+	</div>
+</div>

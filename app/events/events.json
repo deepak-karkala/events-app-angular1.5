@@ -1,0 +1,121 @@
+[
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-141414141414",
+    "name": "Wöchentlicher Blockbuster-Filmclub",
+    "description": "Da wir auch aktuelle Blockbuster schauen, bitte 3D-Brille immer mitbringen. Ein Softdrink und eine kleine Portion Popcorn sind im Preis inbegriffen.",
+    "canton": "BE",
+    "date": "2016-08-02T21:00",
+    "thumbnail": "mockImg/event/event_14.jpg"},
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-151515151515",
+    "name": "Abend der Liebesfilme",
+    "description": "Jede Person kann eine (1) weitere Person mitbringen. Wir werden voraussichtlich die Before Midnight / Sunrise Filme zeigen.",
+    "canton": "BE",
+    "date": "2016-08-02T15:00",
+    "thumbnail": "mockImg/event/event_15.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-161616161616",
+    "name": "Theatergruppe Zürich",
+    "description": "Bitte vor dem ersten Treffen Der Menschenfeind von Molière lesen. Die Vergabe der Rollen findet beim ersten Treffen statt.",
+    "canton": "ZH",
+    "date": "2016-07-12T16:45",
+    "thumbnail": "mockImg/event/event_16.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-111111111111",
+    "name": "Bogenschiessen",
+    "description": "Anfänger willkommen. Material vorhanden. Wer zu spät kommt: wir sind hinter den Tennisplätzen auf der Grasfläche.",
+    "canton": "BE",
+    "date": "2016-08-03T10:00",
+    "thumbnail": "mockImg/event/event_1.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-222222222222",
+    "name": "Walkinggruppe Freiburg",
+    "description": "Event findet bei jeder Witterung statt. Bitte weterfestes Material mitbringen. Rabatt-Coupons für das Sportschuhgeschäft in Fribourg können beim Coach bezogen werden.",
+    "canton": "FR",
+    "date": "2016-07-03T06:00",
+    "thumbnail": "mockImg/event/event_2.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-121212121212",
+    "name": "Boxen - Anfänger",
+    "description": "Wer hat, bitte Boxhandschuhe mitbringen (10-12 Unzen). Es wird kein weiterführendes Material benötigt.",
+    "canton": "BE",
+    "date": "2016-07-03T10:00",
+    "thumbnail": "mockImg/event/event_12.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-181818181818",
+    "name": "Fussball",
+    "description": "Bitte keine Stollenschule (Verletzungsgefahr). In der Pause gibt es Tee und Power-Bars.",
+    "canton": "BL",
+    "date": "2016-07-15T12:15",
+    "thumbnail": "mockImg/event/event_18.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-212121212121",
+    "name": "Wasserball im Vierwaldstättersee (bei jeder Witterung)",
+    "description": "Auch AnfängerInnen willkommen. Bitte nach Möglichkeit eigenes Material mitbringen. Neoprenanzüge können gegen eine Gebühr ausgelehnt werden.",
+    "canton": "LU",
+    "date": "2016-08-03T18:30",
+    "thumbnail": "mockImg/event/event_21.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-101010101010",
+    "name": "SAC-Hütten Tour (Berner Oberland)",
+    "description": "Wir werden pro Tag je rund sechs bis acht Stunden wandern! Die Übernachtung kostet pro Nacht rund 70 Franken (mit Verpflegung).",
+    "canton": "BE",
+    "date": "2016-07-03T19:30",
+    "thumbnail": "mockImg/event/event_10.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-022022022022",
+    "name": "Absinth-Degustation im Val-de-Travers",
+    "description": "Bitte nicht mit dem Auto anreisen! Der Shop der Artemisia-Brennerei wird für uns geöffnet",
+    "canton": "NE",
+    "date": "2016-08-03T20:00",
+    "thumbnail": "mockImg/event/event_22.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-232323232323",
+    "name": "Einführung Thaimassage",
+    "description": "Bitte leichte, sportliche Kleidung tragen. Ein Vertiefungskurs wird zu einem späteren Zeitpunkt angeboten.",
+    "canton": "FR",
+    "date": "2016-07-02T10:00",
+    "thumbnail": "mockImg/event/event_23.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-242424242424",
+    "name": "Biketour Gantrisch",
+    "description": "Wir fahren offroad! Eigenes Bike mitbringen. Die Route führt uns bis nach Münsingen.",
+    "canton": "FR",
+    "date": "2016-07-12T15:30",
+    "thumbnail": "mockImg/event/event_24.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-252525252525",
+    "name": "Teppanyakii-Kochkurs",
+    "description": "Bitte Preis beachten - nicht billig! (da im Restaurant / mit Koch). Ein Bon für ein gratis Essen ist ebenfalls inbegriffen.",
+    "canton": "BE",
+    "date": "2016-08-21T22:30",
+    "thumbnail": "mockImg/event/event_25.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-262626262626",
+    "name": "Gleitschirm-Schnuppertag",
+    "description": "An mehreren Daten hast du die Möglichkeit, auf der Berner Allmend einen Gleitschirm zu starten. Dafür braucht es keinen grossen Kraftaufwand. Wichtig ist die Konzentration und die bewusste Übernahme der Verantwortung was man tut. Koordination, Reaktion und Konzentration werden gefördert, was auch die innere Balance unterstützt.",
+    "canton": "BE",
+    "date": "2016-08-22T15:00",
+    "thumbnail": "mockImg/event/event_26.jpg"
+  },
+  {
+    "id": "c4bba9eb-df7b-4d55-b33d-272727272727",
+    "name": "Brettspiele",
+    "description": "Wenn man an Brettspiele denkt, kommen häufig Spiele wie Monopoly, Eile mit Weile oder auch Schach auf. Mittlerweile gibt es aber mehr, denn Brettspiele haben sich in den 20 Jahren unheimlich verändert! In diesem Move!-Angebot haben Anfänger, aber auch Fortgeschrittene die Möglichkeit gemütlich in den Abend hinein gemeinsam Brettspiele zu entdecken und zu spielen. Strategische, kreative aber auch Partyspiele gibt es im Angebot, welches stetig wachsen wird! Bist du dabei?",
+    "canton": "ZH",
+    "date": "2016-08-22T19:00",
+    "thumbnail": "mockImg/event/event_27.jpg"
+  }
+]
